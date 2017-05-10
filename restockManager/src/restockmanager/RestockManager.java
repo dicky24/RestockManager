@@ -16,7 +16,7 @@ public class RestockManager {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("HEllo");
+        System.out.println("PRikitiuw");
     }
     
 }
